@@ -1,0 +1,4 @@
+mediapipe
+math
+mouse
+opencv-python
